@@ -9,6 +9,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //master--分支--push
+
+
+
+    }
+
+    public void test(){
+
         //develop   分支
     }
 }
